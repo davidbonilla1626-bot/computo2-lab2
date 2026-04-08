@@ -1,5 +1,6 @@
 # Laboratorio 2 – Segundo Cómputo
 David Alfonso Alvarenga Bonilla SMSS016424
+Fredys Alejandro Hernandez Robles SMSS060924
 
 **Análisis y Respuestas:**
 
